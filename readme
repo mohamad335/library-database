@@ -1,0 +1,6 @@
+our project is to use a database with python
+so we work on flask framework and sqlalchemy to create the database
+the library is just simple version to take the title and author name and the rating 
+so evry time i add the data and i quit the web the data will delete
+here we create a database by use sqlalchemy and create a table to save our data or data user 
+then we think that if we want to change the rate so we need to create a edit page to add the new create by update the new rating
